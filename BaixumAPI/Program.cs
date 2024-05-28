@@ -4,7 +4,17 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<BaixumDb>(opt => opt.UseInMemoryDatabase("BaixumAPI"));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 var app = builder.Build();
+
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
 app.MapGet("/usuarios", async (BaixumDb db) =>
     await db.Usuarios.ToListAsync());
@@ -24,7 +34,7 @@ app.MapPost("/usuarios/", async (Usuario usuario, BaixumDb db) =>
     await db.SaveChangesAsync();
 
     return Results.Created($"/usuarios/{usuario.Id}", usuario);
-});
+}).WithOpenApi();
 
 app.MapPut("/usuarios/{id}", async (int id, Usuario inputUsuario, BaixumDb db) =>
 {

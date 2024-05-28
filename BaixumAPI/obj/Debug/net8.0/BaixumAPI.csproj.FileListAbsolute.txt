@@ -31,3 +31,9 @@ C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\bin\Debug\net8.0\Microsoft.Entit
 C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\obj\Debug\net8.0\BaixumAPI.csproj.AssemblyReference.cache
 C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\obj\Debug\net8.0\BaixumAPI.sourcelink.json
 C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\obj\Debug\net8.0\BaixumAPI.csproj.Up2Date
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\obj\Debug\net8.0\BaixumAPI.MvcApplicationPartsAssemblyInfo.cs
