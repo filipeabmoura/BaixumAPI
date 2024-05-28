@@ -1,0 +1,21 @@
+﻿@BaixumAPI_HostAddress = https://localhost:32768
+
+POST {{BaixumAPI_HostAddress}}/usuarios
+Content-Type: application/json
+
+{
+  "name":"filipe",
+  "email":"filipe@gmail.com",
+  "password":"12345",
+  "isAdmin":false
+}
+
+###
+
+GET {{BaixumAPI_HostAddress}}/usuarios
+
+###
+
+GET {{BaixumAPI_HostAddress}}/usuarios/admin
+
+###
