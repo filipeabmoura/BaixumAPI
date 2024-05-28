@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaixumAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48b3aefba752b7298243adb76533b16066c6a11b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaixumAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaixumAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

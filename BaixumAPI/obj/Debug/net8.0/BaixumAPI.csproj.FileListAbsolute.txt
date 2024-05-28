@@ -23,3 +23,11 @@ C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\obj\Debug\net8.0\refint\BaixumAP
 C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\obj\Debug\net8.0\BaixumAPI.pdb
 C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\obj\Debug\net8.0\BaixumAPI.genruntimeconfig.cache
 C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\obj\Debug\net8.0\ref\BaixumAPI.dll
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\obj\Debug\net8.0\BaixumAPI.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\obj\Debug\net8.0\BaixumAPI.sourcelink.json
+C:\Users\filip\source\repos\BaixumAPI\BaixumAPI\obj\Debug\net8.0\BaixumAPI.csproj.Up2Date
