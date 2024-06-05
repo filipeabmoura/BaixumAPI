@@ -19,3 +19,7 @@ GET {{BaixumAPI_HostAddress}}/usuarios
 GET {{BaixumAPI_HostAddress}}/usuarios/admin
 
 ###
+
+GET {{BaixumAPI_HostAddress}}/usuarios/5
+
+###
