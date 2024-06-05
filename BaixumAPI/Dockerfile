@@ -23,3 +23,5 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "BaixumAPI.dll"]
+
+LABEL org.opencontainers.image.source https://github.com/filipeabmoura/BaixumAPI
